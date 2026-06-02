@@ -1,0 +1,14 @@
+{
+  "curso": "Engenharia de Software",
+  "disciplina": "Orientação a Objetos",
+  "tema_escolhido": "5",
+  "linguagem": "Java",
+  "gerenciador_dependencias": "Maven",
+  "integrantes": [
+    {"nome": "Gabriel Nolasco", "github_username": "GabrielNolasco-hub"},
+    {"nome": "Pedro",           "github_username": "Pedim00"},
+    {"nome": "Guilherme Pereira","github_username": "gpereirazm"},
+    {"nome": "Alexandre (Deco)","github_username": "AlexandreAlbuquerque-hub"},
+    {"nome": "Eric Pessoa",     "github_username": "EricPessoa-git"}
+  ]
+}
