@@ -125,3 +125,4 @@ public class Paciente {
         return "Paciente{nome='" + nome + "', cpf=" + cpf + ", idade=" + calcularIdade() + "}";
     }
 }
+ 
