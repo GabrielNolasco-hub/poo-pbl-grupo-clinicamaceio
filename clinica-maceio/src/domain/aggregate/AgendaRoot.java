@@ -128,3 +128,4 @@ public class AgendaRoot {
                 .orElseThrow(() -> new IllegalArgumentException("Consulta não encontrada: " + id));
     }
 }
+ 
